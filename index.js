@@ -5,7 +5,7 @@ const path = require("path");
 const fs = require("fs");
 const axios = require('axios')
 
-const websiteUrl = 'https://baidu.com'
+const websiteUrl = 'http://www.loto.cn/'
 
 //启动http服务器
 http.createServer(onRequest).listen(8888);
